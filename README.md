@@ -9,16 +9,11 @@ The app uses your device’s camera only for real-time hand tracking. No photos 
 
 ## Camera Usage
 Camera access is required only to detect hand movements and gestures.
-
 All processing happens on your device. No camera images or data leave your device.
 
 ## No Third-Party Services
 Pinch It! does not use any third-party analytics or advertising services.
-
 No data is shared with any external parties.
-
-## Children’s Privacy
-Pinch It! is designed for all ages and does not collect personal information from anyone, including children.
 
 ## Changes to This Policy
 If this privacy policy changes, we will update this page.
